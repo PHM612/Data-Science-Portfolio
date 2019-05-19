@@ -7,6 +7,7 @@ Portfolio including all my data science projects.
 ## Projects
 
 - [Credit Card Fraud Detection](https://github.com/gcaplier/Data-Science-Portfolio/tree/master/Credit-Card-Fraud-Detection)
+- [Telco Customer Churn](https://github.com/gcaplier/Data-Science-Portfolio/blob/master/Customer-Churn/Customer-Churn.ipynb)
 
 ## Contact
 
